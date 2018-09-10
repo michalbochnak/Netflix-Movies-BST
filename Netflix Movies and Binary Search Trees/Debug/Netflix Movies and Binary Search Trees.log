@@ -1,0 +1,9 @@
+﻿  Source.c
+c:\users\michal\documents\visual studio 2015\projects\netflix movies and binary search trees\netflix movies and binary search trees\source.c(209): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+c:\users\michal\documents\visual studio 2015\projects\netflix movies and binary search trees\netflix movies and binary search trees\source.c(209): warning C4024: 'fgets': different types for formal and actual parameter 3
+c:\users\michal\documents\visual studio 2015\projects\netflix movies and binary search trees\netflix movies and binary search trees\source.c(212): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+c:\users\michal\documents\visual studio 2015\projects\netflix movies and binary search trees\netflix movies and binary search trees\source.c(212): warning C4024: 'fgets': different types for formal and actual parameter 3
+c:\users\michal\documents\visual studio 2015\projects\netflix movies and binary search trees\netflix movies and binary search trees\source.c(217): warning C4047: 'function': 'BST *' differs in levels of indirection from 'int'
+c:\users\michal\documents\visual studio 2015\projects\netflix movies and binary search trees\netflix movies and binary search trees\source.c(217): warning C4024: 'BSTInsert': different types for formal and actual parameter 1
+  Netflix Movies and Binary Search Trees.vcxproj -> C:\Users\Michal\documents\visual studio 2015\Projects\Netflix Movies and Binary Search Trees\Debug\Netflix Movies and Binary Search Trees.exe
+  Netflix Movies and Binary Search Trees.vcxproj -> C:\Users\Michal\documents\visual studio 2015\Projects\Netflix Movies and Binary Search Trees\Debug\Netflix Movies and Binary Search Trees.pdb (Full PDB)

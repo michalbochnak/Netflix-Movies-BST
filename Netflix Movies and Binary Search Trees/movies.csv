@@ -1,0 +1,251 @@
+MovieID,MovieName,PubYear
+13,12 Angry Men,1957
+189,2001: A Space Odyssey,1968
+421,8 and a Half,1963
+379,A Beautiful Mind,2001
+135,A Clockwork Orange,1971
+445,A Fistful of Dollars,1964
+215,A Separation,2011
+465,A Streetcar Named Desire,1951
+79,Alien,1979
+115,Aliens,1986
+191,All About Eve,1950
+447,All Quiet on the Western Front,1930
+503,All the President's Men,1976
+181,Amadeus,1984
+137,Amelie,2001
+107,American Beauty,1999
+65,American History X,1998
+377,Amores Perros,2000
+413,Anatomy of a Murder,1959
+317,Annie Hall,1977
+71,Apocalypse Now,1979
+89,Back to the Future,1985
+429,Barry Lyndon,1975
+211,Batman Begins,2005
+483,Beauty and the Beast,1991
+381,Before Midnight,2013
+491,Before Sunrise,1995
+351,Ben-Hur,1959
+187,Bicycle Thieves,1948
+393,Black Swan,2010
+243,Blade Runner,1982
+163,Braveheart,1995
+471,Bringing Up Baby,1938
+289,Butch Cassidy and the Sundance Kid,1969
+49,Casablanca,1942
+291,Casino,1995
+175,Chinatown,1974
+151,Cinema Paradiso,1988
+95,Citizen Kane,1941
+75,City Lights,1931
+41,City of God,2002
+275,Cool Hand Luke,1967
+145,Das Boot,1981
+279,Diabolique,1955
+333,Dial M for Murder,1954
+207,Die Hard,1988
+459,District 9,2009
+111,Django Unchained,2012
+371,Dog Day Afternoon,1975
+369,Donnie Darko,2001
+123,Double Indemnity,1944
+227,Downfall,2004
+77,Dr. Strangelove,1964
+161,Eternal Sunshine of the Spotless Mind,2004
+431,Fanny and Alexander,1982
+261,Fargo,1996
+19,Fight Club,1999
+323,Finding Nemo,2003
+221,For a Few Dollars More,1965
+35,Forrest Gump,1994
+165,Full Metal Jacket,1987
+383,Gandhi,1982
+113,Gladiator,2000
+297,Gone with the Wind,1939
+287,Good Will Hunting,1997
+27,Goodfellas,1990
+259,Gran Torino,2008
+203,Grave of the Fireflies,1988
+83,Gravity,2013
+361,Groundhog Day,1993
+443,Harry Potter and the Deathly Hallows: Part 2,2011
+237,Heat,1995
+325,High Noon,1952
+315,Hotel Rwanda,2004
+335,How to Train Your Dragon,2010
+375,Howl's Moving Castle,2004
+253,Ikiru,1952
+415,In the Name of the Father,1993
+479,Incendies,2010
+29,Inception,2010
+201,Indiana Jones and the Last Crusade,1989
+437,Infernal Affairs,2002
+217,Inglourious Basterds,2009
+337,Into the Wild,2007
+463,Ip Man,2008
+267,It Happened One Night,1934
+57,It's a Wonderful Life,1946
+295,Jaws,1975
+293,Judgment at Nuremberg,1961
+449,Jurassic Park,1993
+303,Kill Bill: Vol. 1,2003
+169,L.A. Confidential,1997
+481,La Haine,1995
+419,La Strada,1954
+139,Lawrence of Arabia,1962
+61,Leon: The Professional,1994
+91,Life Is Beautiful,1997
+339,Life of Brian,1979
+425,Life of Pi,2012
+281,Lock Stock and Two Smoking Barrels,1998
+101,M,1931
+497,Magnolia,1999
+387,Mary and Max,2009
+67,Memento,2000
+457,Memories of Murder,2003
+171,Metropolis,1927
+345,Million Dollar Baby,2004
+85,Modern Times,1936
+417,Monsters Inc.,2001
+183,Monty Python and the Holy Grail,1975
+233,Mr. Smith Goes to Washington,1939
+329,My Neighbor Totoro,1988
+489,Mystic River,2003
+487,Nausicaa of the Valley of the Wind,1984
+349,Network,1976
+285,No Country for Old Men,2007
+87,North by Northwest,1959
+341,Notorious,1946
+167,Oldboy,2003
+235,On the Waterfront,1954
+153,Once Upon a Time in America,1984
+43,Once Upon a Time in the West,1968
+25,One Flew Over the Cuckoo's Nest,1975
+225,Pan's Labyrinth,2006
+493,Papillon,1973
+103,Paths of Glory,1957
+397,Persona,1966
+433,Pirates of the Caribbean: The Curse of the Black Pearl,2003
+299,Platoon,1986
+185,Princess Mononoke,1997
+59,Psycho,1960
+7,Pulp Fiction,1994
+205,Raging Bull,1980
+53,Raiders of the Lost Ark,1981
+467,Rain Man,1988
+263,Ran,1985
+179,Rashomon,1950
+455,Ratatouille,2007
+55,Rear Window,1954
+255,Rebecca,1940
+155,Requiem for a Dream,2000
+143,Reservoir Dogs,1992
+401,Rocky,1976
+441,Roman Holiday,1953
+423,Rope,1948
+477,Rosemary's Baby,1968
+365,Rush,2013
+73,Saving Private Ryan,1998
+251,Scarface,1983
+15,Schindler's List,1993
+47,Se7en,1995
+31,Seven Samurai,1954
+453,Shutter Island,2010
+301,Sin City,2005
+173,Singin' in the Rain,1952
+461,Sleuth,1972
+405,Slumdog Millionaire,2008
+219,Snatch,2000
+177,Some Like It Hot,1959
+81,Spirited Away,2001
+439,Stalag 17,1953
+475,Stalker,1979
+353,Stand by Me,1986
+451,Star Trek,2009
+33,Star Wars: Episode IV - A New Hope,1977
+21,Star Wars: Episode V - The Empire Strikes Back,1980
+157,Star Wars: Episode VI - Return of the Jedi,1983
+307,Strangers on a Train,1951
+63,Sunset Blvd,1950
+121,Taxi Driver,1976
+69,Terminator 2: Judgment Day,1991
+373,The 400 Blows,1959
+195,The Apartment,1960
+485,The Artist,2011
+331,The Avengers,2012
+355,The Best Years of Our Lives,1946
+265,The Big Lebowski,1998
+367,The Big Sleep,1946
+385,The Bourne Ultimatum,2007
+209,The Bridge on the River Kwai,1957
+11,The Dark Knight,2008
+119,The Dark Knight Rises,2012
+273,The Deer Hunter,1978
+99,The Departed,2006
+469,The Diving Bell and the Butterfly,2007
+241,The Elephant Man,1980
+399,The Exorcist,1973
+245,The General,1926
+3,The Godfather,1972
+5,The Godfather: Part II,1974
+269,The Gold Rush,1925
+9,The Good the Bad and the Ugly,1966
+389,The Graduate,1967
+313,The Grapes of Wrath,1940
+133,The Great Dictator,1940
+229,The Great Escape,1963
+117,The Green Mile,1999
+473,The Hobbit: An Unexpected Journey,2012
+277,The Hunt,2012
+403,The Hustler,1961
+109,The Intouchables,2011
+239,The Kid,1921
+391,The Killing,1956
+357,The King's Speech,2010
+149,The Lion King,1994
+127,The Lives of Others,2006
+23,The Lord of the Rings: The Fellowship of the Ring,2001
+17,The Lord of the Rings: The Return of the King,2003
+39,The Lord of the Rings: The Two Towers,2002
+249,The Maltese Falcon,1941
+407,The Man Who Shot Liberty Valance,1962
+411,The Manchurian Candidate,1962
+37,The Matrix,1999
+363,The Night of the Hunter,1955
+93,The Pianist,2002
+131,The Prestige,2006
+395,The Princess Bride,1987
+327,The Secret in Their Eyes,2009
+247,The Seventh Seal,1957
+1,The Shawshank Redemption,1994
+97,The Shining,1980
+45,The Silence of the Lambs,1991
+283,The Sixth Sense,1999
+193,The Sting,1973
+343,The Terminator,1984
+311,The Thing,1982
+159,The Third Man,1949
+147,The Treasure of the Sierra Madre,1948
+427,The Truman Show,1998
+51,The Usual Suspects,1995
+435,The Wild Bunch,1969
+305,The Wizard of Oz,1939
+347,There Will Be Blood,2007
+495,Three Colors: Red,1994
+141,To Kill a Mockingbird,1962
+271,Touch of Evil,1958
+223,Toy Story,1995
+129,Toy Story 3,2010
+309,Trainspotting,1996
+359,Twelve Monkeys,1995
+197,Unforgiven,1992
+231,Up,2009
+321,V for Vendetta,2005
+105,Vertigo,1958
+125,WALLE,2008
+319,Warrior,2011
+409,Who's Afraid of Virginia Woolf?,1966
+257,Wild Strawberries,1957
+199,Witness for the Prosecution,1957
+213,Yojimbo,1961
